@@ -1,4 +1,4 @@
-﻿
+
 
 import PIL.Image
 import dlib

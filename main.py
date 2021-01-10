@@ -1,4 +1,3 @@
-
 import face_detect_pic
 import face_detect_cam
 import face_recognize_pic
